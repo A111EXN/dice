@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.dice-face {
+  font-size: 10em;
+  margin: 0px;
+  color: lightsteelblue;
+}
+
+button {
+  margin: 20px 20px;
+  font-size: 1.2em;
+  padding: 5px 10px;
+  background-color: lightskyblue;
+  color: white;
+  border: solid black 1px;
+  border-radius: 16px;
+}
+
+.title{
+  text-decoration-line: underline;
+  font-size: 70px;
+}
+
+.current-roll{
+  margin: 100px 0px;
+  font-size: 30px;
+}
